@@ -1,3 +1,5 @@
+This repository is my practice space for GraphQL.
+
 ### dotenv example
 
 ```
